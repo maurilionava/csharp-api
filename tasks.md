@@ -1,0 +1,3 @@
+- aplicação da inversão de controle com injeção de dependência através do IoC Container do .NET Core
+- INTERFACE WEB: teste do tempo de vida dos serviços através do IoC Container com as chamadas: transient, scoped e singleton
+- instalação e utilização do SWAGGER ou SCALAR no projeto web api
