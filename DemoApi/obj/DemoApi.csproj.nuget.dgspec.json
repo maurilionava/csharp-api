@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj": {}
+    "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj": {}
   },
   "projects": {
-    "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj": {
+    "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj",
+        "projectUniqueName": "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj",
+        "projectPath": "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj",
         "packagesPath": "/home/nava/.nuget/packages/",
-        "outputPath": "/home/nava/Documents/repo/csharp-api/DemoApi/obj/",
+        "outputPath": "/home/nava/repo/csharp-api/DemoApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nava/.nuget/NuGet/NuGet.Config"
