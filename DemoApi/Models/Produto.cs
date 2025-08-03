@@ -1,6 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 [Table("Produtos")]
 public class Produto
@@ -24,10 +25,4 @@ public class Produto
 
     public int CategoriaId { get; set; }
     public Categoria? Categoria { get; set; }
-
-    [JsonIgnore]
-    public long PropriedadeParaIgnorar1 { get; set; }
-    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
-    public long PropriedadeParaIgnorar2 { get; set; }
-
 }

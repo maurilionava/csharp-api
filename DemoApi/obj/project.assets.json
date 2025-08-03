@@ -5380,11 +5380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj",
+      "projectUniqueName": "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj",
       "projectName": "DemoApi",
-      "projectPath": "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj",
+      "projectPath": "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj",
       "packagesPath": "/home/nava/.nuget/packages/",
-      "outputPath": "/home/nava/repo/csharp-api/DemoApi/obj/",
+      "outputPath": "/home/nava/Documents/repo/csharp-api/DemoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nava/.nuget/NuGet/NuGet.Config"
