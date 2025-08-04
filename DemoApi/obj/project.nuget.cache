@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "52ysPNpjyY0=",
+  "dgSpecHash": "2NbroS72jI0=",
   "success": true,
-  "projectFilePath": "/home/nava/Documents/repo/csharp-api/DemoApi/DemoApi.csproj",
+  "projectFilePath": "/home/nava/repo/csharp-api/DemoApi/DemoApi.csproj",
   "expectedPackageFiles": [
     "/home/nava/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/nava/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
